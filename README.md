@@ -15,7 +15,6 @@ The area of the image that played a major role in the predection is highlighted.
 
 
 
-
 And in case of wrong predictions:
 
 
